@@ -4,8 +4,12 @@
 这个系统使用Java JFrame搭建，能够实现简单对数据库的增删改查操作。
 ## 数据库设计
 数据库使用的版本为Mysql 8.0所以需要有对应版本的驱动。
+
+名字叫这个`mysql-connector-j-8.0.31.jar`
 这个很好找，百度一大堆
-文件名为automobile.sql
+
+数据库设计文件是mysql文件夹里面的automobile.sql
+
 简单设计了四个表
 >car\
 >client\
