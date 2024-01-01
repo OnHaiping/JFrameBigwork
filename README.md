@@ -14,7 +14,7 @@
 >car\
 >client\
 >sale\
->staff\
+>staff
 ## 主文件
 主界面在src/Frame/Main.java启动
 ## 各个界面
